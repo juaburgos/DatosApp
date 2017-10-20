@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatosApp</string>
+    <string name="texto_invalido">Existen problemas de conexion</string>
+    <string name="tipoEstablecimiento">tipo de establecimento</string>
+    <string name="entidadCargo">Entidad o Cargo</string>
+    <string name="nombreEncargado">Nombre</string>
+    <string name="Direccion">Direccion</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono de contacto</string>
+</resources>

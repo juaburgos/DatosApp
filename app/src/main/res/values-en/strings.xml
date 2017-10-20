@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DatosApp</string>
+    <string name="tipoEstablecimiento">establishment</string>
+    <string name="texto_invalido">Conection Problem</string>
+    <string name="telefono">Telephone Number</string>
+    <string name="nombreEncargado">Name</string>
+    <string name="entidadCargo">Entity</string>
+    <string name="correo">E-mail</string>
+    <string name="Direccion">Location</string>
+</resources>
